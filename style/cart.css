@@ -1,0 +1,164 @@
+.buy{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+}
+th{
+    background-color: orangered;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-spacing: 0;
+}
+table tr td{
+    display: flex;
+}
+
+.item{
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.ballon1{
+    font-size: large;
+}
+.ballon2{
+    font-size: medium;
+}
+.ballon3{
+    font-size: small;
+    color: orangered;
+}
+.count{
+    display: flex;
+    margin-left: 80%;
+}
+.number{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.price{
+    display: flex;
+    margin-left: 400%;
+}
+.prince{
+    height: 3px;
+     width: 40%;
+     background-color: orangered;
+     margin-left: 670px;
+}
+.total{
+    width: 400px;
+    height: 170px;
+    margin-left: 58%;
+    margin-top: 1%;
+    /* border: 2px solid red; */
+}
+.dollar{
+    float: right;
+}
+.total span{
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .checkout{
+    margin-left: 75%;
+    border-radius: 20px;
+
+} */
+button{
+    background-color: orange;
+    
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 30px;
+    width: 180px;
+    float: right;
+    margin-left: 450px;
+}
+.spiderman{
+    background-color: black;
+    position: relative;
+    top: 80px;
+    height: 220px;
+ 
+}
+
+*{
+    margin: 0px;
+}
+
+.infooter{
+    /* border: 2px solid red; */
+    width: 80%;
+    height: 180px;
+    position: relative;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    
+}
+.Download{
+    width: 30%;
+    /* border: 2px solid red; */
+    height: 180px;
+    color: white;
+    text-align: center;
+}
+.store{
+    width: 30%;
+    /* border: 2px solid red; */
+    color: white;
+    text-align: center;
+}
+.link{
+    width: 20%;
+    /* border:2px solid red; */
+    color: white;
+    text-align: center;
+}
+.follow{
+    width: 20%;
+    /* border: 2px solid red; */
+    color: white;
+    text-align: center;
+}
+.linex{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(190, 190, 190);
+    position: relative;
+    left: 10%;
+}
+.copyright{
+    text-align: center;
+    position: absolute;
+    top:1000%;
+    color: white;
+    
+}
+.textcr{
+    color:white;
+    text-align: center;
+    position: relative;
+    left: 37%;
+    top:10px;
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li{
+ display:inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    margin-top: 200px;
+    margin-right:20px;
+    font-size: 15px;
+    color: black;
+    font-family: Tahoma;
+    display: inline;
+
+}
